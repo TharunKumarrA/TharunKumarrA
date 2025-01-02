@@ -11,13 +11,14 @@
 
 
 <h2 align="center"> About Me </h2>
-
-- 🌐 **Tech Enthusiast** exploring the intersection of creativity and technology.
-- 🎨 Passionate about creating **minimalistic user experiences**.
-- ⚖️ Aspiring to innovate in the fields of **Generative AI and Deep Learning**.
-- 🏢 Currently enhancing my skills as a **Full Stack Intern at Logicflo**.
-
-
+<div align="center" style="max-width: 800px; margin: 0 auto; font-family: 'Arial', sans-serif;">
+    <p style="font-size: 18px; color: #FFFFFF; line-height: 1.6;">
+        🌐 <strong>Tech Enthusiast</strong> exploring the intersection of creativity and technology.<br/>
+        🎨 Passionate about creating <strong>minimalistic user experiences</strong>.<br/>
+        ⚖️ Aspiring to innovate in the fields of <strong>Generative AI and Deep Learning</strong>.<br/>
+        🏢 Currently enhancing my skills as a <strong>Full Stack Intern at Logicflo</strong>.
+    </p>
+</div>
 
 <h2 align="center"> Tech Stack and Tools </h2>
 <div align="center">
