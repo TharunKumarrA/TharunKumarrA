@@ -29,6 +29,7 @@
         <img src="https://skillicons.dev/icons?i=java" title="Java"/>
         <img src="https://skillicons.dev/icons?i=mysql" title="MySQL"/>
         <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL"/>
+        <img src="https://skillicons.dev/icons?i=haskell" title="Haskell"/>
     </div>
     <h3>Web Development</h3>
     <div>
@@ -53,6 +54,7 @@
         <img src="https://skillicons.dev/icons?i=figma" title="Figma"/>
         <img src="https://skillicons.dev/icons?i=eclipse" title="Eclipse"/>
         <img src="https://skillicons.dev/icons?i=vscode" title="Visual Studio Code"/>
+        <img src="https://skillicons.dev/icons?i=blender" title="Blender"/>
     </div>
 </div>
 
@@ -60,11 +62,11 @@
 
 <h2 align="center"> GitHub Stats </h2>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=TharunKumarrA&show_icons=true&theme=github_dark" alt="Tharun's GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=TharunKumarrA&theme=github-dark" alt="GitHub Streak" />
+    <img src="https://github-readme-stats.vercel.app/api?username=TharunKumarrA&theme=gotham&show_icons=true&hide_border=true&count_private=true" alt="Tharun's GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=TharunKumarrA&theme=gotham&hide_border=true" alt="GitHub Streak" />
     <br />
     <div align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=TharunKumarrA&theme=github-dark" alt="Github Activity Graph" />
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=TharunKumarrA&theme=react-dark" alt="Github Activity Graph" />
     </div>
 
 </div>
