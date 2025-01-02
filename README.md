@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm
+<h2 align="center">Hi, I'm
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/ed4a25d5-b69c-4a33-918c-677cc2fc2582" alt="Banner" style="width:75%;"/>
@@ -7,7 +7,7 @@
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=500&color=FFFFFF&center=true&width=500&lines=Frontend+Developer;Tech+Enthusiast;Full+Stack+Intern+at+Logicflo;Passionate+Speaker" alt="Typing SVG" />
 </div>
-</h1>
+</h2>
 
 
 <h2 align="center"> About Me </h2>
@@ -75,10 +75,10 @@
 
 <h2 align="center"> Connect with Me </h2>
 <div align="center">
-    <a href="mailto:tharun@example.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" title="Email" /></a>
-    <a href="https://linkedin.com/in/tharun" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" title="LinkedIn" /></a>
-    <a href="https://github.com/Tharun" target="_blank"><img src="https://skillicons.dev/icons?i=github" title="GitHub" /></a>
-    <a href="https://twitter.com/Tharun" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" title="Twitter" /></a>
+    <a href="mailto:tharunkumarra@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" title="Email" /></a>
+    <a href="https://linkedin.com/in/tharun-kumarr" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" title="LinkedIn" /></a>
+    <a href="https://github.com/TharunKumarrA" target="_blank"><img src="https://skillicons.dev/icons?i=github" title="GitHub" /></a>
+    <a href="https://twitter.com/astro_tharun" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" title="Twitter" /></a>
 </div>
 
 
