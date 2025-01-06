@@ -44,6 +44,8 @@
         <img src="https://skillicons.dev/icons?i=css" title="CSS"/>
         <img src="https://skillicons.dev/icons?i=js" title="JavaScript"/>
         <img src="https://skillicons.dev/icons?i=tailwind" title="TailwindCSS"/>
+        <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap"/>
+        <img src="https://skillicons.dev/icons?i=materialui" title="MaterialUI"/>
     </div>
     <h3>Tools</h3>
     <div>
@@ -53,9 +55,13 @@
         <img src="https://skillicons.dev/icons?i=bash" title="Bash"/>
         <img src="https://skillicons.dev/icons?i=postman" title="Postman"/>
         <img src="https://skillicons.dev/icons?i=figma" title="Figma"/>
+        <img src="https://skillicons.dev/icons?i=vercel" title="Vercel"/>
         <img src="https://skillicons.dev/icons?i=eclipse" title="Eclipse"/>
         <img src="https://skillicons.dev/icons?i=vscode" title="Visual Studio Code"/>
         <img src="https://skillicons.dev/icons?i=blender" title="Blender"/>
+        <img src="https://skillicons.dev/icons?i=kali" title="kali"/>
+        <img src="https://skillicons.dev/icons?i=sklearn" title="Sklearn"/>
+        <img src="https://skillicons.dev/icons?i=tensorflow" title="Tensorflow"/>
     </div>
 </div>
 
