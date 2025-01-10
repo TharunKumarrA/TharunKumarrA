@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=500&color=FFFFFF&center=true&width=500&lines=Frontend+Developer;Tech+Enthusiast;Full+Stack+Intern+at+Logicflo;Passionate+Speaker" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=500&color=FFFFFF&center=true&width=500&lines=Frontend+Developer;Tech+Enthusiast;Passionate+Speaker" alt="Typing SVG" />
 </div>
 </h2>
 
@@ -16,7 +16,7 @@
         💻 <strong>Tech Enthusiast</strong> exploring the intersection of creativity and technology.<br/>
         🎨 Passionate about creating <strong>minimalistic user experiences</strong>.<br/>
         🤖 Aspiring to innovate in the fields of <strong>Generative AI and Deep Learning</strong>.<br/>
-        🏢 Currently enhancing my skills as a <strong>Full Stack Intern at Logicflo</strong>.
+        🏢 <strong>Past Experience:</strong> Full Stack Intern at Logicflo.
     </p>
 </div>
 
